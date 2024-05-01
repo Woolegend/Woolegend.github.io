@@ -1,0 +1,68 @@
+[
+    {
+        "id": "001",
+        "name": "apple",
+        "content": "Apple is red",
+        "price": 2000
+    },
+    {
+        "id" : "002", 
+        "name" : "banana", 
+        "content" : "Banana is yellow", 
+        "price" : 3000
+    },
+    {
+        "id" : "003", 
+        "name" : "Orange", 
+        "content" : "Orange is orange", 
+        "price" : 2200
+    },
+    {
+        "id" : "004", 
+        "name" : "Strawberry", 
+        "content" : "Strawberry is red", 
+        "price" : 4500
+    },
+    {
+        "id" : "005", 
+        "name" : "Kiwi", 
+        "content" : "Kiwi is green", 
+        "price" : 5000
+    },
+    {
+        "id" : "006", 
+        "name" : "Grape", 
+        "content" : "Grape is purple", 
+        "price" : 4000
+    },
+    {
+        "id" : "007", 
+        "name" : "Watermelon", 
+        "content" : "Watermelon is green", 
+        "price" : 15000
+    },
+    {
+        "id" : "008", 
+        "name" : "Pineapple", 
+        "content" : "Pineapple is yellow", 
+        "price" : 15000
+    },
+    {
+        "id" : "009", 
+        "name" : "Tomato", 
+        "content" : "Tomato is red", 
+        "price" : 15000
+    },
+    {
+        "id" : "010", 
+        "name" : "Mango", 
+        "content" : "Mango is yellow", 
+        "price" : 3000
+    },
+    {
+        "id" : "011", 
+        "name" : "Blueberry", 
+        "content" : "Blueberry is blue", 
+        "price" : 4500
+    }
+]
