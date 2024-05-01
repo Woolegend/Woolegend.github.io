@@ -3,66 +3,77 @@
         "id": "001",
         "name": "apple",
         "content": "Apple is red",
-        "price": 2000
+        "price": 2000,
+        "src" : "https://woolegend.github.io/images/image_001.jpg"
     },
     {
         "id" : "002", 
         "name" : "banana", 
         "content" : "Banana is yellow", 
-        "price" : 3000
+        "price" : 3000,
+        "src" : "https://woolegend.github.io/images/image_002.jpg"
     },
     {
         "id" : "003", 
         "name" : "Orange", 
         "content" : "Orange is orange", 
-        "price" : 2200
+        "price" : 2200,
+        "src" : "https://woolegend.github.io/images/image_003.jpg"
     },
     {
         "id" : "004", 
         "name" : "Strawberry", 
         "content" : "Strawberry is red", 
-        "price" : 4500
+        "price" : 4500,
+        "src" : "https://woolegend.github.io/images/image_004.jpg"
     },
     {
         "id" : "005", 
         "name" : "Kiwi", 
         "content" : "Kiwi is green", 
-        "price" : 5000
+        "price" : 5000,
+        "src" : "https://woolegend.github.io/images/image_005.jpg"
     },
     {
         "id" : "006", 
         "name" : "Grape", 
         "content" : "Grape is purple", 
-        "price" : 4000
+        "price" : 4000,
+        "src" : "https://woolegend.github.io/images/image_006.jpg"
     },
     {
         "id" : "007", 
         "name" : "Watermelon", 
         "content" : "Watermelon is green", 
-        "price" : 15000
+        "price" : 15000,
+        "src" : "https://woolegend.github.io/images/image_007.jpg"
     },
     {
         "id" : "008", 
         "name" : "Pineapple", 
         "content" : "Pineapple is yellow", 
-        "price" : 15000
+        "price" : 15000,
+        "src" : "https://woolegend.github.io/images/image_008.jpg"
     },
     {
         "id" : "009", 
         "name" : "Tomato", 
         "content" : "Tomato is red", 
-        "price" : 15000
+        "price" : 15000,
+        "src" : "https://woolegend.github.io/images/image_009.jpg"
     },
     {
         "id" : "010", 
         "name" : "Mango", 
         "content" : "Mango is yellow", 
-        "price" : 3000
+        "price" : 3000,
+        "src" : "https://woolegend.github.io/images/image_010.jpg"
     },
     {
         "id" : "011", 
         "name" : "Blueberry", 
         "content" : "Blueberry is blue", 
-        "price" : 4500
+        "price" : 4500,
+        "src" : "https://woolegend.github.io/images/image_011.jpg"
     }
 ]
