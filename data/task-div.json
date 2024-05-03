@@ -1,0 +1,22 @@
+[
+    {
+        "parent" : 9,
+        "title" : "블루 아카이브 The Animation",
+        "checked" : true
+    },
+    {
+        "parent" : 9,
+        "title" : "무직전생 Ⅱ ~이세계에 갔으면 최선을 다한다~",
+        "checked" : false
+    },
+    {
+        "parent" : 9,
+        "title" : "던전밥",
+        "checked" : false
+    },
+    {
+        "parent" : 9,
+        "title" : "이 멋진 세계에 축복을! 3",
+        "checked" : false
+    }
+]
